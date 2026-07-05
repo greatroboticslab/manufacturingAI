@@ -9,6 +9,8 @@ This study evaluates five xLSTM configurations ranging from 1 to 5 stacked mLSTM
 ## 💥 News 💥
 - **[05.01.2026]** Repository released with full training code, DeepSpeed config, and SLURM job script.
 
+
+- **[07.06.2026]** Added xlstm with different attention mechanisms including: ProbSparce, hierarchical chunk wise processing, wavelet decomposition with channel wise frequency attention, and gated attention memory.
 ---
 
 ## Overview
