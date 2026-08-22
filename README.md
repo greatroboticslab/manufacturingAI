@@ -12,7 +12,7 @@ This study evaluates five xLSTM configurations ranging from 1 to 5 stacked mLSTM
 
 - **[07.06.2026]** Added xlstm with different attention mechanisms including: ProbSparce, hierarchical chunk wise processing, wavelet decomposition with channel wise frequency attention, and gated attention memory.
 
-- **[08.21.2026]** Added ExperimentalIdea folder. Currently holds xlstm_loss.py. Currently holds the following loss calculations: mse, huber, huber_gradient, adaptive, peak_aware.
+- **[08.21.2026]** Added ExperimentalIdea folder. Currently holds xlstm_loss.py. Currently holds the following loss calculations: mse, huber, huber_gradient, adaptive, peak_aware. Choice of loss function could be chosen through MAIN EXECUTION section or in the slurm file.
 ---
 
 ## Overview
